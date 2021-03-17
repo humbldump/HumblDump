@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://chrome.google.com/webstore/detail/browser-lock-lock-your-br/nldijlfmoepgjkjhmdiiainkjgmpdnmj">Browser Lock | Chrome </a>
 <img width="100%" src="https://media.giphy.com/media/5ZcJqhD9bloPu/giphy.gif">
