@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![wakatime](https://wakatime.com/badge/user/62bdf21c-0268-4dc6-8519-a1cffc8234a0.svg?style=for-the-badge)](https://wakatime.com/@62bdf21c-0268-4dc6-8519-a1cffc8234a0)
+
 <a href="https://chrome.google.com/webstore/detail/browser-lock-lock-your-br/nldijlfmoepgjkjhmdiiainkjgmpdnmj">Browser Lock | Chrome </a>
 <img width="100%" src="https://media.giphy.com/media/5ZcJqhD9bloPu/giphy.gif">
