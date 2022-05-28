@@ -30,5 +30,5 @@ I'm currently working on indiryo.com
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=humbldump&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=humbldump&icon=5&color=6)](https://visitcount.itsvg.in)
+[![bros](https://visitcount.itsvg.in/api?id=humbldump&icon=5&color=6)](https://humbldump.com)
 
