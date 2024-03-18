@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/62bdf21c-0268-4dc6-8519-a1cffc8234a0.svg?style=for-the-badge)](https://wakatime.com/@62bdf21c-0268-4dc6-8519-a1cffc8234a0)
 
 # 💫About Me :
-I'm currently working on indiryo.com
+Trying to be best react developer out there.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/humbldump#9049) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/humbldump) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/humbldump) 
